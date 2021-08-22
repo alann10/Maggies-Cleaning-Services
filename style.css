@@ -1,0 +1,29 @@
+h1{
+    color:black;
+    text-align: center;
+}
+.intro{
+    text-align: center;
+}
+.paragraph1{
+    text-align: center;
+}
+
+.contactinfo{
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(0, 153, 255);
+}
+
+.div1 a{
+    float:right;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.dropdown{
+    float: right;
+    overflow: hidden;
+}
